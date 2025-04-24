@@ -58,7 +58,7 @@ EOF
       "version": "18"
     }
   },
-  "postCreateCommand": "./setup-nodered-interactivo.sh"
+  "postCreateCommand": "./setup.sh"
 }
 EOF
 
